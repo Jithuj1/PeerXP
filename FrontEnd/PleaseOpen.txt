@@ -1,0 +1,8 @@
+
+
+
+
+
+if the frontend folder is not opening you can check my github I have uploaded frontend separately 
+
+url : https://github.com/Jithuj1/PeerXp-FrontEnd
